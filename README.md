@@ -1,7 +1,10 @@
-Lwazi Shozi — Career Readiness Portfolio
-🧭 Career Networking & Coaching Sessions at DVT and pbd.com
+Career Readiness Portfolio
+Lwazi Nhlakanipho Shozi 230220061@mycput.ac.za/lwazishozi11@gmail.com
+Software Engineering At CPUT.
+
+🧭 Career Networking & Coaching Sessions at DVT and bbdsoftware.com
 Reflection
-S: As part of the Work Readiness program, I participated in a unique networking and coaching opportunity with DVT and pbd.com, where I met and engaged directly with professionals in the software industry — including the co-CEO of DVT.
+S: As part of the Work Readiness program, I participated in a unique networking and coaching opportunity with DVT and bbdsoftware.com, where I met and engaged directly with professionals in the software industry — including the co-CEO of DVT.
 T: My aim was to gain clarity on structuring my career pathway, understanding the tech industry's expectations, and refining my academic and professional trajectory.
 A: I took the initiative to ask informed questions, seek feedback on my CV, and understand how to approach internships, collaborations, and industry-aligned projects.
 R: This experience transformed my approach. I now have a clearer blueprint for my academic planning, project involvement, and how to position myself as a competent developer in a competitive market.
