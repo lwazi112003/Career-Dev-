@@ -1,8 +1,20 @@
 Career Readiness Portfolio
-Lwazi Nhlakanipho Shozi 230220061@mycput.ac.za/lwazishozi11@gmail.com
+
+
+Lwazi Nhlakanipho Shozi 
+
+
+230220061@mycput.ac.za/lwazishozi11@gmail.com
+
+LinkedIn Profile:www.linkedin.com/in/lwazi-shozi-057928289
+
+
+Git Hub: https://github.com/lwazi112003/
+
+
 Software Engineering At CPUT.
 
-🧭 Career Networking & Coaching Sessions at DVT and bbdsoftware.com
+Career Networking & Coaching Sessions at DVT and bbdsoftware.com
 
 
 Reflection
@@ -20,8 +32,13 @@ A: I took the initiative to ask informed questions, seek feedback on my CV, and 
 R: This experience transformed my approach. I now have a clearer blueprint for my academic planning, project involvement, and how to position myself as a competent developer in a competitive market.
 
 
+![image](https://github.com/user-attachments/assets/a3179679-dbf1-4156-8bc0-efb96f9bfea0)
 
-🎓 Career-Focused Certification — Microsoft Azure
+Image Showing AWS networking Invite 
+
+
+
+Career-Focused Certification — Microsoft Azure
 Reflection
 
 
@@ -38,7 +55,7 @@ R: I passed the certification with confidence. This achievement gave me practica
 
 
 
-📜 Additional Certifications
+Additional Certifications
 AWS Certified Cloud Practitioner
 
 Microsoft Azure Fundamentals
@@ -47,7 +64,7 @@ CompTIA A+ (220) — Fundamentals of computer hardware, networking, and system s
 
 These certifications reinforce my multi-cloud literacy and practical knowledge in system operations and security.
 
-🧠 Personality Insight — INTJ-A ("The Architect")
+Personality Insight — INTJ-A ("The Architect")
 Reflection
 S: I explored my personality type through a 16Personalities assessment as part of the career development process.
 
@@ -62,7 +79,7 @@ R: This introspection confirmed that I'm a thinker and a builder — someone who
 
 
 
-📝 CV Development and Industry Alignment
+CV Development and Industry Alignment
 Reflection
 
 
@@ -76,10 +93,12 @@ A: After submitting my application and completing the Amazon online assessment, 
 
 
 R: The final CV now highlights my certifications, backend capabilities, and collaborative experiences. It has already helped me reach the interview stage in major programs, and I feel confident using it to explore both internships and freelance work.
+![image](https://github.com/user-attachments/assets/b40f83fc-148c-40aa-9cfa-65ab82a6d32d)
 
 
 
-💬 Peer Review & Final Submission
+
+ Peer Review & Final Submission
 Reflection
 
 
@@ -96,7 +115,7 @@ R: The reviewed and polished version felt professional and focused. This process
 
 
 
-🔧 Core Skills & Aspirations
+Core Skills & Aspirations
 Technical Tools & Languages
 
 Languages: Java, Kotlin, Python, SQL, JavaScript
